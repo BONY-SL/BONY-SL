@@ -1,4 +1,4 @@
-![logo](https://img3.wallspic.com/previews/6/0/3/3/6/163306/163306-python-programming_language-standing-anonymous_function-high_level_programming_language-x750.jpg)
+![logo](2166929281.jpg)
 <h1 align="center">Hi 👋, I'm DILSHAN PATHIRAGE</h1>
 <h3 align="center">Undergraduate Student,University of Ruhuna Faculty of Technology</h3>
 
