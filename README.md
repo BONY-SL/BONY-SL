@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BONY-SL&label=Profile%20views&color=0e75b6&style=flat" alt="BONY-SL" /> </p>
 
-- 🌱 I’m currently learning **JAVA Frameworks**
+- 🌱 I’m currently Reading bachelors of Information and Communication Technology degree in University of Ruhuna Faculty of Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BONY-SL](https://github.com/BONY-SL)
 
