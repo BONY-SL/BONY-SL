@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm DILSHAN PATHIRAGE</h1>
 <h3 align="center">Undergraduate Student,University of Ruhuna Faculty of Technology</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/BONY-SL/BONY-SL/assets/143308037/e909aa8b-f1c9-4c86-a578-f6edffb08624)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BONY-SL&label=Profile%20views&color=0e75b6&style=flat" alt="BONY-SL" /> </p>
 
