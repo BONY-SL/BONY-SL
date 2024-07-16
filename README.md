@@ -16,15 +16,35 @@
 <a href="https://linkedin.com/in/dilshan pathirage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan pathirage" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left">
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="c" width="40" height="40"/> </a> 
-  <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a> 
+
+</p>
+
+<h3 align="left">Frame Work :</h3>
+<p align="left">
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/> </a> 
+  <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40"/> </a> 
+  <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" alt="Hibernate" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Tools :</h3>
+<p align="left">
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG4GwZSY7l6VETT2hiCGaq-42TcTfSu-Xgg&s" alt="InteliJ" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_tRL44sCGtQgJoskBrKQEAhr5pIlCK62Q&s" alt="WebStrome" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://storage.caktusgroup.com/media/blog-images/logo.png" alt="PyCharm" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" alt="CLion" width="40" height="40"/> </a> 
 
 </p>
 
