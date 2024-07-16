@@ -34,7 +34,7 @@
 <h3 align="left">FrameWorks :</h3>
 <p align="left">
 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="50" height="50"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="60" height="50"/> </a> 
   <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="50" height="50"/> </a> 
   <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" alt="Hibernate" width="50" height="50"/> </a> 
 </p>
