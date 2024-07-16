@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dilshan pathirage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan pathirage" height="30" width="40" /></a>
+<a href="https://wa.me/qr/IXA2MVQCMVQII1" target="blank"><img align="center" src="https://www.webwise.ie/wp-content/uploads/2015/01/WhatsApp-header-1024x500.jpg" alt="dilshan pathirage" height="30" width="40" /></a>
+  <a href="https://wa.me/qr/IXA2MVQCMVQII1" target="blank"><img align="center" src="https://www.webwise.ie/wp-content/uploads/2015/01/WhatsApp-header-1024x500.jpg" alt="dilshan pathirage" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
