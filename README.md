@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://wa.me/qr/IXA2MVQCMVQII1" target="blank"><img align="center" src="https://png.pngtree.com/element_our/sm/20180626/sm_5b321c99945a2.jpg" alt="dilshan pathirage" height="50" width="50" /></a>
-  <a href="https://www.linkedin.com/in/dilshan-pathirage" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="dilshan pathirage" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="dilshan pathirage" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
