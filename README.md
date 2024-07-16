@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="dilshan pathirage" height="50" width="50" /></a>
 </p>
 
-<h3 align="center">Languages :</h3>
+<h2 align="left">Languages :</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
@@ -29,7 +29,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"/> </a> 
 </p>
 
-<h3 align="left">FrameWorks :</h3>
+<h2 align="left">FrameWorks :</h2>
 <p align="left">
 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="55" height="50"/> </a> 
@@ -37,7 +37,7 @@
   <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" alt="Hibernate" width="50" height="50"/> </a> 
 </p>
 
-<h3 align="left">Tools :</h3>
+<h2 align="left">Tools :</h2>
 <p align="left">
 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG4GwZSY7l6VETT2hiCGaq-42TcTfSu-Xgg&s" alt="InteliJ" width="50" height="50"/> </a> 
