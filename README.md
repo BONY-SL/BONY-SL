@@ -30,7 +30,7 @@
 
 </p>
 
-<h3 align="left">Frame Work :</h3>
+<h3 align="left">FrameWorks :</h3>
 <p align="left">
 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/> </a> 
