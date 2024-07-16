@@ -29,7 +29,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"/> </a> 
 </p>
 
-<h3 align="left">FrameWorks :</h3>
+<h3 align="center">FrameWorks :</h3>
 <p align="left">
 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="55" height="50"/> </a> 
@@ -37,7 +37,7 @@
   <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" alt="Hibernate" width="50" height="50"/> </a> 
 </p>
 
-<h3 align="left">Tools :</h3>
+<h3 align="center">Tools :</h3>
 <p align="left">
 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG4GwZSY7l6VETT2hiCGaq-42TcTfSu-Xgg&s" alt="InteliJ" width="50" height="50"/> </a> 
