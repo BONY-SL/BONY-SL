@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm DILSHAN PATHIRAGE</h1>
 <h3 align="center">Undergraduate Student,University of Ruhuna Faculty of Technology</h3>
 
-<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BONY-SL&label=Profile%20views&color=0e75b6&style=flat" alt="BONY-SL" /> </p>
-
-- 🌱 I’m currently Reading bachelors of Information and Communication Technology degree in University of Ruhuna Faculty of Technology**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BONY-SL](https://github.com/BONY-SL)
-
-- 📫 How to reach me **danidutharuka12345@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://wa.me/qr/IXA2MVQCMVQII1" target="blank"><img align="center" src="https://png.pngtree.com/element_our/sm/20180626/sm_5b321c99945a2.jpg" alt="dilshan pathirage" height="50" width="50" /></a>
