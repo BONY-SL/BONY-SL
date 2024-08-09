@@ -41,10 +41,7 @@
         </a>
       </p>
     </td>
-  </tr>
-
-  <tr>
-    <td>
+        <td>
       <h2 align="left">Web Technologies :</h2>
       <p align="left">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -61,6 +58,9 @@
         </a>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td>
       <h2 align="left">Frameworks :</h2>
       <p align="left">
@@ -75,10 +75,7 @@
         </a>
       </p>
     </td>
-  </tr>
-
-  <tr>
-    <td>
+        <td>
       <h2 align="left">Tools :</h2>
       <p align="left">
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
@@ -92,7 +89,6 @@
         </a>
       </p>
     </td>
-    <td></td>
   </tr>
 </table>
 
