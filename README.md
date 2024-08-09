@@ -33,7 +33,6 @@
         </a>
       </p>
     </td>
-
     <td>
       <h2 align="left">Database Management :</h2>
       <p align="left">
@@ -62,7 +61,6 @@
         </a>
       </p>
     </td>
-
     <td>
       <h2 align="left">Frameworks :</h2>
       <p align="left">
@@ -97,6 +95,7 @@
     <td></td>
   </tr>
 </table>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact" alt="BONY-SL" /></p>
