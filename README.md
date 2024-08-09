@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm DILSHAN PATHIRAGE</h1>
 <h3 align="center">Undergraduate Student,University of Ruhuna Faculty of Technology</h3>
+<br/>
+<br/>
 
-
-<table style="margin-top:50px;">
+<table>
   <tr>
     <td>
       <p align="left">
