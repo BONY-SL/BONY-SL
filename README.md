@@ -29,7 +29,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"/> </a> 
 </p>
 
-<h2 align="left">FrameWorks :</h2>
+<h2 align="left">Frameworks :</h2>
 <p align="left">
 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="55" height="50"/> </a> 
