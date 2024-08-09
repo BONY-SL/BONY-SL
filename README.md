@@ -20,7 +20,6 @@
 <table>
   <tr>
     <td>
-      <h2 align="left">Programming Languages :</h2>
       <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
@@ -34,7 +33,6 @@
       </p>
     </td>
     <td>
-      <h2 align="left">Database Management :</h2>
       <p align="left">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
@@ -42,7 +40,6 @@
       </p>
     </td>
         <td>
-      <h2 align="left">Web Technologies :</h2>
       <p align="left">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
@@ -62,7 +59,6 @@
 
   <tr>
     <td>
-      <h2 align="left">Frameworks :</h2>
       <p align="left">
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
           <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="55" height="50"/> 
@@ -76,7 +72,6 @@
       </p>
     </td>
         <td>
-      <h2 align="left">Tools :</h2>
       <p align="left">
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG4GwZSY7l6VETT2hiCGaq-42TcTfSu-Xgg&s" alt="IntelliJ" width="50" height="50"/> 
