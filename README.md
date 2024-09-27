@@ -80,8 +80,8 @@
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG4GwZSY7l6VETT2hiCGaq-42TcTfSu-Xgg&s" alt="IntelliJ" width="50" height="50"/> 
         </a>
-        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-          <img src="https://storage.caktusgroup.com/media/blog-images/logo.png" alt="PyCharm" width="50" height="50"/> 
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="PostMan" width="50" height="50"/> 
         </a>
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
           <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" width="50" height="50"/> 
