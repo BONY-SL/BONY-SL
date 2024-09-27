@@ -35,6 +35,9 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
         </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+        </a>
       </p>
     </td>
         <td>
@@ -58,6 +61,9 @@
   <tr>
     <td>
       <p align="left">
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+        </a>
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
           <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="55" height="50"/> 
         </a>
