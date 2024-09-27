@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm DILSHAN PATHIRAGE</h1>
-<h3 align="center">Undergraduate Student,University of Ruhuna Faculty of Technology</h3>
-<br/>
-<br/>
-<br/>
-<br/>
+<h1 align="center">Hi 👋, I'm Dilshan Pathirage</h1>
+<h3 align="center">Aspiring Full-Stack Developer Software Engineering Undergraduate B.ICT (Hons) at University of Ruhuna.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-678&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-678" /> </p>
+
+- 🌱 I’m currently learning **Spring Boot & Angular**
+
+- 📫 How to reach me **danidutharuka55@gmail.com**
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dilshan-pathirage-536829317" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23469505/dilshan-pathirage?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23469505/dilshan-pathirage" height="30" width="40" /></a>
+<a href="https://medium.com/@danidutharuka12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danidutharuka12345" height="30" width="40" /></a>
+</p>
 
 <h3>Languages and Tools</h3>
 <table>
