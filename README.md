@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Angular**
 
-- 📫 How to reach me **danidutharuka55@gmail.com**
+- 📫 How to reach me **danidutharuka12345@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
