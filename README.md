@@ -97,4 +97,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&locale=en" alt="BONY-SL" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=BONY-SL&show_icons=true&locale=en" alt="BONY-SL" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BONY-SL &show_icons=true&locale=en" alt="BONY-SL" /></p>
