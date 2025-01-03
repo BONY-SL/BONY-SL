@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dilshan-pathirage-536829317" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23469505/dilshan-pathirage?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23469505/dilshan-pathirage" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/23469505/dilshan-pathirage?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23469505/dilshan-pathirage" height="30" width="40" /></a> -->
 <a href="https://medium.com/@danidutharuka12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danidutharuka12345" height="30" width="40" /></a>
 </p>
 
