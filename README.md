@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilshan Pathirage</h1>
-    <div style="display: flex; flex-direction: column; justify-content: right; text-align: justify;">
-    <h3>I am an aspiring Full-Stack Java Developer and a dedicated BICT (Hons) undergraduate at the University of Ruhuna, graduating in 2025. I have practical knowledge of the Spring and Spring Boot frameworks and Java development. 
+    <div>
+    <h3 style="display: flex; flex-direction: column; justify-content: right; text-align: justify;">I am an aspiring Full-Stack Java Developer and a dedicated BICT (Hons) undergraduate at the University of Ruhuna, graduating in 2025. I have practical knowledge of the Spring and Spring Boot frameworks and Java development. 
         I also have hands-on experience with AWS Cloud Technologies and use the Angular framework to create dynamic and responsive front-end applications.</h3>
-    <h3>I'm dedicated to improving my knowledge of software development techniques since I have a strong desire to solve problems and learn new things constantly. 
+    <h3 style="display: flex; flex-direction: column; justify-content: right; text-align: justify;">I'm dedicated to improving my knowledge of software development techniques since I have a strong desire to solve problems and learn new things constantly. 
         I like working with others on creative initiatives, and my goal is to make a significant impact on the Information and Communication sector by providing scalable and effective solutions.</h3>
     </div>
 
