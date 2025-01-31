@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshan Pathirage</h1>
 <h3 align="left">I am an aspiring Full-Stack Java Developer and a dedicated BICT (Hons) undergraduate at the University of Ruhuna, graduating in 2025.I have practical knowledge of the Spring and Spring Boot frameworks and Java development. I also have hands-on experience with AWS Cloud Technologies and use the Angular framework to create dynamic and responsive front-end applications.</h3>
-<br/>
 <h3 align="left">I'm dedicated to improving my knowledge of software development techniques since I have a strong desire to solve problems and learn new things constantly. I like working with others on creative initiatives, and my goal is to make a significant impact on the Information and Communication sector by providing scalable and effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-678&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-678" /> </p>
