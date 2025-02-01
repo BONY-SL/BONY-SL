@@ -23,29 +23,6 @@
 <h3>Languages,Tools & Technologies</h3>
 <table>
   <tr>
-    <td>
-      <p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
-        </a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"/> 
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align="left">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-        </a>
-      </p>
-    </td>
         <td>
       <p align="left">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -94,6 +71,29 @@
         </a>
         <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_tRL44sCGtQgJoskBrKQEAhr5pIlCK62Q&s" alt="Webstrome" width="50" height="50"/> 
+        </a>
+      </p>
+    </td>
+          <td>
+      <p align="left">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
+        </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="50" height="50"/> 
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="left">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
+        </a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
         </a>
       </p>
     </td>
