@@ -44,14 +44,14 @@
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG4GwZSY7l6VETT2hiCGaq-42TcTfSu-Xgg&s" alt="IntelliJ" width="50" height="50"/> 
         </a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="PostMan" width="50" height="50"/> 
+        <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_tRL44sCGtQgJoskBrKQEAhr5pIlCK62Q&s" alt="Webstrome" width="50" height="50"/> 
         </a>
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
           <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" width="50" height="50"/> 
         </a>
-        <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_tRL44sCGtQgJoskBrKQEAhr5pIlCK62Q&s" alt="Webstrome" width="50" height="50"/> 
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="PostMan" width="50" height="50"/> 
         </a>
       </p>
     </td>
