@@ -23,23 +23,7 @@
 <h3>Languages,Tools & Technologies</h3>
 <table>
   <tr>
-        <td>
-      <p align="left">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="50" height="50"/> 
-        </a>
-        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50"/> 
-        </a>
-        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="50" height="50"/> 
-        </a>
-      </p>
-    </td>
-          <td>
+                <td>
       <p align="left">
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -68,6 +52,22 @@
         </a>
         <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_tRL44sCGtQgJoskBrKQEAhr5pIlCK62Q&s" alt="Webstrome" width="50" height="50"/> 
+        </a>
+      </p>
+    </td>
+        <td>
+      <p align="left">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="50" height="50"/> 
+        </a>
+        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50"/> 
+        </a>
+        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="50" height="50"/> 
         </a>
       </p>
     </td>
