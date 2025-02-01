@@ -97,7 +97,7 @@
         <td>
       <p align="left">
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="50" height="50"/> 
+          <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="50" height="50"/> 
         </a>
       </p>
     </td>
