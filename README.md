@@ -99,7 +99,7 @@
     </td>
         <td>
       <p align="left">
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+        <a href="https://aws.amazon.com/" target="blank" rel="noreferrer"> 
           <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="50" height="50"/> 
         </a>
       </p>
