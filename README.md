@@ -92,6 +92,9 @@
         <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
           <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" width="50" height="50"/> 
         </a>
+        <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_tRL44sCGtQgJoskBrKQEAhr5pIlCK62Q&s" alt="Webstrome" width="50" height="50"/> 
+        </a>
       </p>
     </td>
         <td>
