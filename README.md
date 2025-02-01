@@ -97,13 +97,7 @@
         <td>
       <p align="left">
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw2OT5OWf0mwkllOjlnneWxn&ust=1738502633346000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjvupHJoosDFQAAAAAdAAAAABAJ" alt="aws" width="50" height="50"/> 
-        </a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="PostMan" width="50" height="50"/> 
-        </a>
-        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-          <img src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" alt="VSCode" width="50" height="50"/> 
+          <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws" width="50" height="50"/> 
         </a>
       </p>
     </td>
