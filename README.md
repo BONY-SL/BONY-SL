@@ -21,7 +21,6 @@
 </p>
 
 <h3>Languages,Tools & Technologies : &nbsp 
-    <p align="left">
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> 
   </a>
@@ -46,7 +45,6 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="30" height="30"/> 
   </a>
-</p>
 </h3>
 
 
