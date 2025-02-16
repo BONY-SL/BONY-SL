@@ -21,7 +21,7 @@
 </p>
 
 <h3>Languages,Tools & Technologies</h3>
-<table>
+<!-- <table>
   <tr>
                 <td>
       <p align="left">
@@ -105,7 +105,7 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
