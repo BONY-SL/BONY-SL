@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-678&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-678" /> </p>
 <h1 align="center">Hi 👋, I'm Dilshan Pathirage</h1>
 
-- 🌱 I’m currently learning **Spring Boot , Angular and AWS Cloud Technologies**
+- 🌱 I’m currently learning **Spring Boot , Angular and AWS Cloud Technologies   <img src="https://komarev.com/ghpvc/?username=dilshan-678&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-678" /> **
 
 - 📫 How to reach me **danidutharuka12345@gmail.com**
   
