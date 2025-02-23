@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td><h3 align="left">Connect with me:</h3></td>
+    <td><h3 align="left">Connect with me</h3></td>
     <td>
       <p align="left">
 <a href="https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dilshan-pathirage-536829317" height="40" width="40" /></a>
@@ -16,7 +16,6 @@
     </td>
   </tr>
 </table>
-
 <h3>Languages,Tools & Technologies : &nbsp 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> 
