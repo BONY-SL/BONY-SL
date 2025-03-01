@@ -36,10 +36,10 @@
     <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="35" height="30"/> 
   </a>&nbsp
   <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="35" height="35"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40"/> 
   </a>&nbsp
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="35" height="35"/> 
+    <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="33" height="33"/> 
   </a>
 </h3>
 
