@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> 
   </a>&nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> 
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="30" height="30"/> 
   </a>&nbsp
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="30" height="30"/> 
