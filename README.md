@@ -42,6 +42,8 @@
     <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="36" height="36"/> 
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact" alt="BONY-SL"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact" alt="BONY-SL"/></p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/>
+</p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/></p> -->
