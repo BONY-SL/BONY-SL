@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **danidutharuka12345@gmail.com**
 
--    My Portfolio: <a href="https://dilshanpathirage.passivesoft.com/" target="_blank">dilshanpathirage</a>
+- 📫 My Portfolio: <a href="https://dilshanpathirage.passivesoft.com/" target="_blank">dilshanpathirage</a>
 
 <table>
   <tr>
