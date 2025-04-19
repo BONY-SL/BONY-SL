@@ -23,6 +23,9 @@
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a>&nbsp
+                <a href="https://www.oracle.com/fr/java/technologies/java-ee-glance.html" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:441/1*N5Ta2UFc34fwcPnikjIJ5A.png" alt="Java" width="40" height="40"/> 
+  </a>&nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" alt="MySQL" width="40" height="40"/> 
   </a>&nbsp
@@ -49,6 +52,9 @@
   </a>&nbsp
   <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="45" height="45"/> 
+  </a>&nbsp
+          <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="hhttps://www.myqnap.org/wp-content/uploads/tomcat-logo.png" alt="Tomcat" width="45" height="45"/> 
   </a>&nbsp
           <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/cb2c74064ceb23cbcc8926d700351df1cedffe635b80a58362ddb201237a9ba2/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67" alt="React" width="45" height="45"/> 
