@@ -75,7 +75,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact" alt="BONY-SL"/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/>
 </p> -->
-<a href="#BONY-SL-title">
+<a href="#BONY-SL-title" align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="BONY-SL" align="center" />
 </a>
 
