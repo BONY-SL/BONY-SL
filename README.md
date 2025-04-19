@@ -53,6 +53,9 @@
   <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="45" height="45"/> 
   </a>&nbsp
+                  <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/333/488/png-transparent-javafx-dependency-injection-fxml-ignite-orange-logo-computer-wallpaper.png" alt="Tomcat" width="40" height="40"/> 
+  </a>&nbsp
           <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.myqnap.org/wp-content/uploads/tomcat-logo.png" alt="Tomcat" width="40" height="40"/> 
   </a>&nbsp
