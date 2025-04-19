@@ -68,9 +68,11 @@
                           <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOoWb2-XM9PsxK940NqKjKKFlmN3Q8zDR0A&s" alt="Tomcat" width="40" height="40"/> 
   </a>&nbsp
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+</p>
+<p align="center">
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="40" height="40"/> 
-  </a>
+  </a>&nbsp
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact" alt="BONY-SL"/></p> -->
