@@ -81,7 +81,7 @@
 </a>
 
 <a href="#BONY-SL-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="BONY-SL" align="right" style="width:45%; height:50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="BONY-SL" align="right" style="width:40%; height:50%;" />
 </a>
 
 
