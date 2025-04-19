@@ -77,7 +77,7 @@
 </p> -->
 <p align="center">
 <a href="#BONY-SL-title">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="BONY-SL" align="left" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="BONY-SL"/>
 </a>
 </p>
 <!--<a href="#BONY-SL-title">
