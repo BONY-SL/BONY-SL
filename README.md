@@ -54,7 +54,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="45" height="45"/> 
   </a>&nbsp
           <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="hhttps://www.myqnap.org/wp-content/uploads/tomcat-logo.png" alt="Tomcat" width="45" height="45"/> 
+    <img src="https://www.myqnap.org/wp-content/uploads/tomcat-logo.png" alt="Tomcat" width="45" height="45"/> 
   </a>&nbsp
           <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/cb2c74064ceb23cbcc8926d700351df1cedffe635b80a58362ddb201237a9ba2/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67" alt="React" width="45" height="45"/> 
