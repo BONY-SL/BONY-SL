@@ -62,6 +62,12 @@
           <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/cb2c74064ceb23cbcc8926d700351df1cedffe635b80a58362ddb201237a9ba2/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67" alt="React" width="45" height="45"/> 
   </a>&nbsp
+                  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://ih1.redbubble.net/image.453956200.1706/tst,small,507x507-pad,600x600,f8f8f8.u5.jpg" alt="Tomcat" width="40" height="40"/> 
+  </a>&nbsp
+                          <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOoWb2-XM9PsxK940NqKjKKFlmN3Q8zDR0A&s" alt="Tomcat" width="40" height="40"/> 
+  </a>&nbsp
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="40" height="40"/> 
   </a>
