@@ -19,7 +19,8 @@
   </tr>
 </table>
 <h3 align="center">Languages,Tools & Technologies </h3> 
-      <p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+      <p align="center">
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a>&nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -27,6 +28,12 @@
   </a>&nbsp
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> 
+  </a>&nbsp
+    <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="Hibernate" width="40" height="40"/> 
+  </a>&nbsp
+            <a href="https://www.w3schools.com/Html//" target="_blank" rel="noreferrer"> 
+    <img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" alt="HTML" width="40" height="40"/> 
   </a>&nbsp
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" alt="python" width="40" height="40"/> 
@@ -42,6 +49,9 @@
   </a>&nbsp
   <a href="https://angular.io/guide/styleguide" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="45" height="45"/> 
+  </a>&nbsp
+          <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://camo.githubusercontent.com/cb2c74064ceb23cbcc8926d700351df1cedffe635b80a58362ddb201237a9ba2/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f72656163742d6a732f72656163742e706e67" alt="React" width="45" height="45"/> 
   </a>&nbsp
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://figmaresource.com/wp-content/uploads/2024/05/AWS-Marketplace-Logo-PNG-to-svg-1.svg" alt="aws" width="36" height="36"/> 
