@@ -91,7 +91,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="BONY-SL" align="right" style="width:45%; height:50%;" />
 </a>
 </p>
-<!-- <a href="#BONY-SL-title">
+<a href="#BONY-SL-title">
   <img width="45%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BONY-SL&count_private=true&theme=react&border_radius=10&background=040404&title_color=18d26e&text_color=ffffff&border=18d26e&ring=18d26e&fire=18d26e&currStreakLabel=18d26e&dates=18d26e&stroke=18d26e&sideLabels=18d26e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
-</a> -->
+</a>
+<table align="center" border="0" cellspacing="10">
+  <tr>
+    <td colspan="2" align="center">
+      <!-- General GitHub Stats -->
+      <a href="#BONY-SL-title">
+        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="BONY-SL"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Top Languages -->
+      <a href="#BONY-SL-title">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="Top Languages"/>
+      </a>
+    </td>
+    <td align="center">
+      <!-- Streak Stats -->
+      <a href="#BONY-SL-title">
+        <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BONY-SL&count_private=true&theme=react&border_radius=10&background=040404&title_color=18d26e&text_color=ffffff&border=18d26e&ring=18d26e&fire=18d26e&currStreakLabel=18d26e&dates=18d26e&stroke=18d26e&sideLabels=18d26e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
