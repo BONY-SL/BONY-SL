@@ -88,7 +88,7 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="BONY-SL"/></a>
   <a href="#BONY-SL-title">
     <a href="#BONY-SL-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="BONY-SL" align="right" style="width:45%; height:45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="BONY-SL" align="right" style="width:45%; height:30%;" />
 </a>
 </p>
     <p align="center">
