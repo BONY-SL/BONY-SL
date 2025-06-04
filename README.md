@@ -79,15 +79,15 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/>
 </p> -->
-<!-- <p>
+<p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact" alt="BONY-SL"/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BONY-SL&show_icons=true&locale=en" alt="BONY-SL"/>
-</p> -->
-<p align="center">
+</p>
+<!-- <p align="center">
 <a href="#BONY-SL-title">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&title_color=18d26e&icon_color=18d26e&text_color=ffffff&bg_color=040404&border_color=18d26e" alt="BONY-SL"/>
 </a>
-</p>
+</p> -->
 <!-- <a href="#BONY-SL-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONY-SL&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=50&layout=compact&border_color=18d26e" alt="BONY-SL" align="right" style="width:40%; height:50%;" />
 </a>
