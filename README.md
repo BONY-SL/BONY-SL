@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilshan Pathirage &nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=dilshan-678&label=Profile%20views&color=0e75b6&style=flat" alt="BONY-SL" /> </h1>
 
-- 🌱 I’m currently learning **Spring , Spring Boot , Java EE , Angular and AWS Cloud Technologies**
+- 🌱 I’m currently Working @ IFS R&D Srilanka**
 
 - 📫 How to reach me **danidutharuka12345@gmail.com**
 
