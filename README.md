@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>
-        <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact&theme=radical" alt="BONY-SL" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact&theme=radical" alt="BONY-SL" />
     </td>
   </tr>
 </table>
