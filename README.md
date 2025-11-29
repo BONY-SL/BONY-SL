@@ -1,47 +1,25 @@
-<h1 align="center">Hi 👋, I'm Dilshan Pathirage &nbsp&nbsp<img src="https://komarev.com/ghpvc/?username=dilshan-678&label=Profile%20views&color=0e75b6&style=flat" alt="BONY-SL" /> </h1>
+<h1 align="center">Hi 👋, I'm Dilshan Pathirage</h1>
+<h3 align="center">Undergraduate Trainee Software Engineer @ IFS R&D | Reading bachelors of Information and Communication Technology degree in University of Ruhuna</h3>
 
-- 🌱 I’m currently Working @ IFS R&D Srilanka**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bony-sl&label=Profile%20views&color=0e75b6&style=flat" alt="bony-sl" /> </p>
 
-- 📫 How to reach me **danidutharuka12345@gmail.com**
+- 🔭 I’m currently working on **IFS R&D Sri Lanka**
 
-- 📫 My Portfolio: <a href="https://dilshanpathirage.passivesoft.com/" target="_blank">dilshanpathirage</a>
+- 🌱 I’m currently learning **Spring , Angular**
 
-<table>
-  <tr>
-    <td>
-      <p align="left">
-<a href="https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dilshan-pathirage-536829317" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://wa.me/qr/IXA2MVQCMVQII1" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/583/962/png-clipart-whatsapp-computer-icons-icon-design-internet-whatsapp-trademark-logo-thumbnail.png" alt="https://wa.me/qr/IXA2MVQCMVQII1" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://medium.com/@danidutharuka12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danidutharuka12345" height="40" width="40" /></a>
+- 📫 How to reach me **dilshanpathirage995@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dilshan-pathirage-536829317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshan-pathirage-536829317/" height="30" width="40" /></a>
+<a href="https://medium.com/@danidutharuka12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danidutharuka12345" height="30" width="40" /></a>
 </p>
-    </td>
-  </tr>
-</table>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<table border="0">
-  <tr>
-    <td colspan=2>
-      <p align="center">
-        <a href="https://github.com/BONY-SL">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BONY-SL&theme=radical" alt="BONY-SL's GitHub Contribution"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BONY-SL&&theme=radical" alt="BONY-SL" />      
-    </td>
-    <td>
-      <a> 
-        <a href="https://github.com/BONY-SL"><img alt="BONY-SL's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=BONY-SL&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-      </a> 
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BONY-SL&show_icons=true&locale=en&layout=compact&theme=radical" alt="BONY-SL" />
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bony-sl&show_icons=true&locale=en&layout=compact" alt="bony-sl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bony-sl&show_icons=true&locale=en" alt="bony-sl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bony-sl&" alt="bony-sl" /></p>
