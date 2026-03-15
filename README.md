@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshan Pathirage</h1>
-<h3 align="center">Undergraduate Trainee Software Engineer @ IFS R&D | Reading bachelors of Information and Communication Technology degree in University of Ruhuna</h3>
+<h3 align="center">Undergraduate Trainee Software Engineer @ IFS R&D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bony-sl&label=Profile%20views&color=0e75b6&style=flat" alt="bony-sl" /> </p>
 
