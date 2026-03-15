@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IFS R&D Sri Lanka**
 
-- 🌱 I’m currently learning **Spring , Angular**
+- 🌱 I’m currently learning **Spring , Angular , Python , Machine Learning , Artificial Intelligence **
 
 - 📫 How to reach me **dilshanpathirage995@gmail.com**
 
