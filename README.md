@@ -3,9 +3,6 @@
 
 # Hi there, I'm Dilshan Pathirage 👋
 
-<p>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6¢er=true&vCenter=true&width=435&lines=Trainee+Software+Engineer+%40+IFS+R%26D;Java+%7C+Spring+Boot+%7C+Angular;Always+learning+new+things)
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bony-sl&label=Profile+views&color=0e75b6&style=for-the-badge)
 
@@ -55,33 +52,4 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bony-sl&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bony-sl&layout=compact&theme=tokyonight&hide_border=true)
-</div>
-
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=bony-sl&theme=tokyonight&hide_border=true)
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshan-pathirage-536829317/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danidutharuka12345)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanpathirage995@gmail.com)
-</div>
-
----
-
-<div align="center">
-*"The only way to do great work is to love what you do." – Steve Jobs*
 </div>
